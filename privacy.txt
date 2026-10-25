@@ -1,0 +1,87 @@
+RedactShield Privacy Policy / RedactShield 隐私政策
+Effective date: October 25, 2026
+Support: support@globalcorehub.com
+
+============================================================
+ENGLISH
+============================================================
+
+RedactShield Privacy Policy
+Effective date: October 25, 2026
+
+RedactShield is a Windows desktop application for reviewing and redacting sensitive content in PDFs and images. This policy explains how RedactShield handles information.
+
+1. Local document processing
+RedactShield processes PDFs, images, extracted text, OCR results, redaction regions, custom sensitive words, and exported audit reports on the user's device. RedactShield does not upload, transmit, sell, rent, or share document content or extracted content with the publisher or any third party. RedactShield does not provide a cloud document-processing service.
+
+2. Data stored on the device
+RedactShield may store the following information locally:
+- User preferences and saved custom sensitive words in the user's local application-data folder.
+- A local crash log when an unhandled error occurs, to help diagnose application failures.
+- Source documents, exported redacted documents, and audit reports only in the locations selected by the user.
+
+These files remain on the device and are not automatically transmitted by RedactShield. Users control them and can delete them, reset application data, or uninstall the application.
+
+3. Microsoft Store licensing and purchases
+RedactShield uses Microsoft Store services to verify licenses and to offer the optional Pro add-on. Those operations may require an internet connection and are handled by Microsoft. Microsoft may process account, device, transaction, and diagnostic information under the Microsoft Privacy Statement. RedactShield does not receive or store payment-card details or Microsoft account credentials.
+
+4. Collection and sharing
+RedactShield does not include third-party advertising, analytics, or telemetry services. The application does not create user profiles or sell personal information. Document content is not sent to the publisher. Information is disclosed only when required by applicable law or when necessary to protect legal rights.
+
+5. Retention and user control
+Locally stored settings and logs remain on the device until the user deletes them, resets application data, or uninstalls the application. Exported files remain wherever the user saves them. Microsoft Store transaction records are retained by Microsoft according to Microsoft's policies.
+
+6. Security
+RedactShield is designed to keep document content on the local device. Users are responsible for protecting their device, account, and exported files with appropriate access controls and backups. No method of storage or processing is completely secure.
+
+7. Children
+RedactShield is a productivity tool and is not directed to children. The application does not knowingly collect personal information from children.
+
+8. Changes to this policy
+This policy may be updated when RedactShield's features or legal obligations change. The effective date above will be revised when that happens. Material changes will be reflected in the application or its Microsoft Store listing.
+
+9. Contact
+Questions about this policy or RedactShield privacy practices may be sent to:
+support@globalcorehub.com
+
+============================================================
+简体中文
+============================================================
+
+RedactShield 隐私政策
+生效日期：2026 年 10 月 25 日
+
+RedactShield 是一款用于检查和脱敏 PDF 与图片中敏感内容的 Windows 桌面应用。本政策说明 RedactShield 如何处理相关信息。
+
+1. 本地文档处理
+RedactShield 在用户设备上处理 PDF、图片、提取文字、OCR 结果、脱敏区域、自定义敏感词和导出的审计报告。RedactShield 不会向发布者或任何第三方上传、传输、出售、出租或共享文档内容及提取内容，也不提供云端文档处理服务。
+
+2. 设备本地存储的信息
+RedactShield 可能在本地保存以下信息：
+- 保存在用户本地应用数据目录中的用户设置和自定义敏感词。
+- 发生未处理错误时生成的本地崩溃日志，用于诊断应用故障。
+- 仅保存在用户选定位置中的源文档、导出的脱敏文档和审计报告。
+
+上述文件保留在设备上，RedactShield 不会自动传输它们。用户可以自行删除文件、重置应用数据或卸载应用。
+
+3. Microsoft Store 授权与购买
+RedactShield 使用 Microsoft Store 服务验证授权并提供可选的 Pro 附加组件。这些操作可能需要网络连接，并由 Microsoft 处理。Microsoft 可能依据 Microsoft 隐私声明处理账户、设备、交易和诊断信息。RedactShield 不会接收或保存支付卡信息或 Microsoft 账户凭据。
+
+4. 信息收集与共享
+RedactShield 不包含第三方广告、分析或遥测服务，不创建用户画像，也不出售个人信息。文档内容不会发送给发布者。仅在适用法律要求或保护合法权利所必需时，才会披露相关信息。
+
+5. 保留期限与用户控制
+本地设置和日志会保留在设备上，直至用户删除、重置应用数据或卸载应用。导出文件保留在用户保存它们的位置。Microsoft Store 交易记录由 Microsoft 按其政策保留。
+
+6. 安全
+RedactShield 的设计目标是让文档内容保留在本地设备上。用户应使用适当的访问控制和备份措施保护设备、账户及导出文件。任何存储或处理方式都无法保证绝对安全。
+
+7. 儿童
+RedactShield 是生产力工具，并非面向儿童。应用不会有意收集儿童的个人信息。
+
+8. 政策变更
+当 RedactShield 的功能或法律义务发生变化时，本政策可能更新，并同步修改上方的生效日期。重大变更将反映在应用或其 Microsoft Store 商品页面中。
+
+9. 联系方式
+如对本政策或 RedactShield 的隐私做法有疑问，请联系：
+support@globalcorehub.com
